@@ -1,7 +1,8 @@
 # 🍳 AI Recipe Generator – Serverless Web Application
 
-The **AI Recipe Generator** is a serverless web application that showcases how **Generative AI** can be integrated into a modern cloud-native architecture.  
-It generates personalized recipes from a list of ingredients provided by users, using **Amazon Bedrock (Claude 3 Sonnet model)**.  
+The **AI Recipe Generator** is a serverless web application that suggests cooking recipes based on user-provided ingredients.  
+It is built using **AWS Amplify**, **Amazon Bedrock (Claude 3 Sonnet)**, **AWS Cognito**, **AWS Lambda**, and **AppSync GraphQL API**, 
+with a modern **React (Vite) frontend** styled using Amplify UI components. 
 
 ---
 
