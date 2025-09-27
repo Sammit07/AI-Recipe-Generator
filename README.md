@@ -2,7 +2,6 @@
 
 The **AI Recipe Generator** is a serverless web application that showcases how **Generative AI** can be integrated into a modern cloud-native architecture.  
 It generates personalized recipes from a list of ingredients provided by users, using **Amazon Bedrock (Claude 3 Sonnet model)**.  
-This project highlights skills in **cloud engineering, AI integration, serverless development, and frontend design**.  
 
 ---
 
